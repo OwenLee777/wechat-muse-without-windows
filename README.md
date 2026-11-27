@@ -111,4 +111,3 @@ ILINK_DATA_DIR=$PWD/data .venv/bin/python ilink.py bind
 
 ---
 *本报告只记录 2026-11-27 当天在云电脑上的实测结果，不含任何登录凭证、二维码和账号 ID。*
----
